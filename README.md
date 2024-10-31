@@ -7,6 +7,7 @@ Tools: R Studio
 
 # PROJECT FILES
 - Project Report [Budegt Speech FY 23-24 Text Analytics.pdf](https://github.com/user-attachments/files/17582196/Budegt.Speech.FY.23-24.Text.Analytics.pdf)
-
+- Project Code: https://github.com/SaulihaKirmani/Research-Portfolio/blob/main/BTA%20FY%2023-24.R
+  
                   
 
